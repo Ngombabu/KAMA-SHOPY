@@ -5,3 +5,4 @@ function Humain(){
         </div>
     )
 }
+export default Humain;
